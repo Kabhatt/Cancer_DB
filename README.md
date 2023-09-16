@@ -3,7 +3,7 @@ This is a sample cancer database I created using an online database from Kaggle,
 
 
 
-![Welcome page](cancer/welcome page.png)
+![Welcome page](welcome-page.png)
 
 
 
@@ -11,4 +11,4 @@ This is a sample cancer database I created using an online database from Kaggle,
 
 
 
-![Result page](cancer/results .png)
+![Result page](cancer/results.png)
