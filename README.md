@@ -7,8 +7,4 @@ This is a sample cancer database I created using an online database from Kaggle,
 
 
 
-
-
-
-
-![Result page](cancer/results.png)
+![Result page](results.png)
